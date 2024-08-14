@@ -10,7 +10,7 @@
 [![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/harshdevp01)](https://www.codechef.com/users/harshdevp01)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white&link=https://www.geeksforgeeks.org/user/mishra0dwqv/)](https://www.geeksforgeeks.org/user/mishra0dwqv/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh02mishra&label=Profile%20views&color=0e75b6&style=flat" alt="harsh" /> </p><br><br>
+<img src="https://komarev.com/ghpvc/?username=harsh02mishra&label=Profile%20views&color=0e75b6&style=flat" alt="harsh"/><br><br>
 
 ## 💻Languages:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css)](Skills)<br><br>
